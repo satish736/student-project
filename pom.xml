@@ -23,7 +23,12 @@
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>
-    </plugins>
+      </plugins>      
+     ` <groupId>org.apache.maven.plugins</groupId>
+       <artifactId>maven-deploy-plugin</artifactId>
+       <version>2.7</version>
+      </plugins>
+     </plugins> 
   </build>
    <distributionManagement>
         <repository>
