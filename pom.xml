@@ -34,12 +34,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.237.239.25:8081/repository/maven-snapshots/</url>
+            <url>http://104.196.0.134:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.237.239.25:8081/repository/maven-snapshots/</url>
+            <url>http://104.196.0.134:8081/repository/student-rel/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
