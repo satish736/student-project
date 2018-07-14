@@ -23,6 +23,7 @@
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>
+    </plugin>
   </build>
    <distributionManagement>
         <repository>
