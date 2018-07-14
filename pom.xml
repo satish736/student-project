@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.231.139.122:8081/repository/student-rel/</url>
+            <url>http://10.142.0.15:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.231.139.122:8081/repository/student-rel/</url>
+            <url>http://10.142.0.15:8081/repository/student-rel/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
